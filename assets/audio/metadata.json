@@ -1,0 +1,126 @@
+{
+  "project": "BlastZone3D Bomberman",
+  "generated": "2026-02-01T18:15:00Z",
+  "generator": "ElevenLabs Sound Effects API",
+  "music": [
+    {
+      "filename": "music/main-menu.mp3",
+      "description": "Epic, exciting menu theme",
+      "duration": "30s",
+      "type": "loop",
+      "prompt": "Epic exciting orchestral video game menu theme music, heroic and adventurous, loopable",
+      "usage": "Main menu background music"
+    },
+    {
+      "filename": "music/level-gameplay.mp3",
+      "description": "Upbeat, energetic gameplay music",
+      "duration": "60s",
+      "type": "loop",
+      "prompt": "Upbeat energetic action video game music, fast paced electronic gameplay theme, loopable",
+      "usage": "Standard level gameplay background music"
+    },
+    {
+      "filename": "music/victory.mp3",
+      "description": "Triumphant fanfare",
+      "duration": "10s",
+      "type": "oneshot",
+      "prompt": "Triumphant victory fanfare, heroic celebration music",
+      "usage": "Level completion success"
+    },
+    {
+      "filename": "music/game-over.mp3",
+      "description": "Dramatic game over theme",
+      "duration": "15s",
+      "type": "oneshot",
+      "prompt": "Dramatic game over theme music, sad defeat orchestral",
+      "usage": "Player death / game over screen"
+    },
+    {
+      "filename": "music/boss-level.mp3",
+      "description": "Intense, fast-paced boss music",
+      "duration": "60s",
+      "type": "loop",
+      "prompt": "Intense fast-paced boss battle music, dramatic action theme, loopable",
+      "usage": "Boss battle encounters"
+    }
+  ],
+  "sfx": [
+    {
+      "filename": "sfx/bomb-place.mp3",
+      "description": "Mechanical click",
+      "duration": "1s",
+      "prompt": "Mechanical click sound of a bomb being placed on the ground",
+      "usage": "Player places bomb"
+    },
+    {
+      "filename": "sfx/bomb-fuse.mp3",
+      "description": "Hissing countdown tension",
+      "duration": "3s",
+      "prompt": "Hissing fuse sound, countdown tension, ticking bomb",
+      "usage": "Bomb countdown before explosion"
+    },
+    {
+      "filename": "sfx/explosion.mp3",
+      "description": "Powerful boom with debris",
+      "duration": "2s",
+      "prompt": "Powerful explosion boom with debris and rumble",
+      "usage": "Bomb detonation"
+    },
+    {
+      "filename": "sfx/footstep.mp3",
+      "description": "Footstep on stone",
+      "duration": "0.5s",
+      "prompt": "Single footstep on stone floor",
+      "usage": "Character movement (loop when walking)"
+    },
+    {
+      "filename": "sfx/powerup-collect.mp3",
+      "description": "Magical chime",
+      "duration": "1s",
+      "prompt": "Magical chime power-up collection sound, positive sparkle",
+      "usage": "Collecting power-ups"
+    },
+    {
+      "filename": "sfx/player-death.mp3",
+      "description": "Dramatic explosion",
+      "duration": "2s",
+      "prompt": "Dramatic death explosion with defeat sound",
+      "usage": "Player character death"
+    },
+    {
+      "filename": "sfx/enemy-defeat.mp3",
+      "description": "Satisfying pop",
+      "duration": "1s",
+      "prompt": "Satisfying pop sound, enemy defeated",
+      "usage": "Enemy elimination"
+    },
+    {
+      "filename": "sfx/wall-destroy.mp3",
+      "description": "Crumbling stone",
+      "duration": "2s",
+      "prompt": "Crumbling stone wall destruction with debris falling",
+      "usage": "Destructible wall breaking"
+    },
+    {
+      "filename": "sfx/menu-click.mp3",
+      "description": "Soft click",
+      "duration": "0.5s",
+      "prompt": "Soft UI click button press",
+      "usage": "Menu navigation and UI interactions"
+    },
+    {
+      "filename": "sfx/level-complete.mp3",
+      "description": "Celebration sounds",
+      "duration": "3s",
+      "prompt": "Celebration sounds, level complete fanfare with cheering",
+      "usage": "Level completion announcement"
+    }
+  ],
+  "stats": {
+    "total_files": 15,
+    "music_tracks": 5,
+    "sound_effects": 10,
+    "total_duration_music": "175s",
+    "total_duration_sfx": "16.5s"
+  }
+}
