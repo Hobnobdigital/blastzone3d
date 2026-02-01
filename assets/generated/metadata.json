@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "pipeline": "generative-ai",
+  "assets": [],
+  "metadata_template": {
+    "asset_id": "unique-identifier",
+    "type": "icon|texture|model|audio",
+    "prompt": "Full text prompt used for generation",
+    "negative_prompt": "Optional negative prompt",
+    "tool": "tool-name and version",
+    "seed": 0,
+    "timestamp": "ISO-8601 timestamp",
+    "version": "asset version",
+    "license": "CC0|MIT|etc",
+    "file_path": "relative/path/to/asset.ext"
+  },
+  "notes": "This file tracks all AI-generated assets per spec Section 8. Add entries as assets are created."
+}
