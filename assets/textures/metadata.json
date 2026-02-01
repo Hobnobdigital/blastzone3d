@@ -1,0 +1,142 @@
+{
+  "project": "BlastZone3D",
+  "generated_date": "2026-02-01",
+  "model": "gpt-image-1.5",
+  "quality": "high",
+  "size": "1536x1024",
+  "total_assets": 16,
+  "categories": {
+    "characters": {
+      "count": 4,
+      "assets": [
+        {
+          "filename": "player-bomberman.png",
+          "path": "characters/player-bomberman.png",
+          "prompt": "Cute bomberman character with white suit in confident pose, top-down 3D isometric view, vibrant colors, award-winning game art, clean background",
+          "description": "Main player character - cute bomberman with white suit"
+        },
+        {
+          "filename": "enemy-balloon.png",
+          "path": "characters/enemy-balloon.png",
+          "prompt": "Pink balloon enemy character, menacing but cute expression, top-down 3D isometric view, vibrant colors, award-winning game art, clean background",
+          "description": "Pink balloon enemy - menacing but cute"
+        },
+        {
+          "filename": "enemy-ghost.png",
+          "path": "characters/enemy-ghost.png",
+          "prompt": "Ghostly enemy character, translucent and spooky, top-down 3D isometric view, vibrant ethereal colors, award-winning game art, clean background",
+          "description": "Ghostly enemy - translucent and spooky"
+        },
+        {
+          "filename": "enemy-knight.png",
+          "path": "characters/enemy-knight.png",
+          "prompt": "Armored knight enemy character, heavy and slow-looking, top-down 3D isometric view, vibrant metallic colors, award-winning game art, clean background",
+          "description": "Armored knight enemy - heavy and slow"
+        }
+      ]
+    },
+    "environment": {
+      "count": 5,
+      "assets": [
+        {
+          "filename": "floor-grass.png",
+          "path": "environment/floor-grass.png",
+          "prompt": "Vibrant green grass texture, seamless tileable pattern, top view, photorealistic, high quality game texture, vibrant colors",
+          "description": "Vibrant green grass floor texture - tileable",
+          "tileable": true
+        },
+        {
+          "filename": "floor-stone.png",
+          "path": "environment/floor-stone.png",
+          "prompt": "Gray stone tile texture, seamless tileable pattern, top view, photorealistic, high quality game texture, clean and polished",
+          "description": "Gray stone tile floor texture - tileable",
+          "tileable": true
+        },
+        {
+          "filename": "floor-lava.png",
+          "path": "environment/floor-lava.png",
+          "prompt": "Glowing lava molten rock texture, seamless tileable pattern, top view, vibrant orange and red colors, award-winning game texture, dramatic lighting",
+          "description": "Glowing lava/molten rock floor texture - tileable",
+          "tileable": true
+        },
+        {
+          "filename": "wall-brick.png",
+          "path": "environment/wall-brick.png",
+          "prompt": "Destructible brick wall texture, orange and brown colors, seamless tileable pattern, front view, game art style, weathered and aged appearance",
+          "description": "Destructible brick wall (orange/brown) - tileable",
+          "tileable": true,
+          "destructible": true
+        },
+        {
+          "filename": "wall-metal.png",
+          "path": "environment/wall-metal.png",
+          "prompt": "Indestructible metal wall texture, dark industrial style, seamless tileable pattern, front view, metallic sheen, game art quality, sturdy appearance",
+          "description": "Indestructible metal wall (dark industrial) - tileable",
+          "tileable": true,
+          "destructible": false
+        }
+      ]
+    },
+    "items": {
+      "count": 5,
+      "assets": [
+        {
+          "filename": "bomb.png",
+          "path": "items/bomb.png",
+          "prompt": "Classic black bomb with lit fuse, top-down 3D isometric view, vibrant colors, game art style, clean background, cartoon style",
+          "description": "Classic black bomb with lit fuse"
+        },
+        {
+          "filename": "explosion-fire.png",
+          "path": "items/explosion-fire.png",
+          "prompt": "Fire and smoke particle effect for explosions, vibrant orange red yellow colors, game art style, dynamic and energetic, transparent background",
+          "description": "Fire/smoke particle for explosion effects"
+        },
+        {
+          "filename": "powerup-bomb.png",
+          "path": "items/powerup-bomb.png",
+          "prompt": "Blue power-up icon with bomb symbol, glowing effect, game art style, vibrant colors, clean icon design, award-winning quality",
+          "description": "Blue power-up icon (bomb+) - increases bomb count"
+        },
+        {
+          "filename": "powerup-fire.png",
+          "path": "items/powerup-fire.png",
+          "prompt": "Red power-up icon with fire flame symbol, glowing effect, game art style, vibrant colors, clean icon design, award-winning quality",
+          "description": "Red power-up icon (fire+) - increases explosion range"
+        },
+        {
+          "filename": "powerup-speed.png",
+          "path": "items/powerup-speed.png",
+          "prompt": "Yellow power-up icon with speed lightning symbol, glowing effect, game art style, vibrant colors, clean icon design, award-winning quality",
+          "description": "Yellow power-up icon (speed+) - increases movement speed"
+        }
+      ]
+    },
+    "ui": {
+      "count": 2,
+      "assets": [
+        {
+          "filename": "victory-banner.png",
+          "path": "ui/victory-banner.png",
+          "prompt": "VICTORY banner with bold text and celebration graphics, confetti fireworks stars, vibrant colorful design, game UI art style, award-winning quality",
+          "description": "Victory screen banner with celebration graphics"
+        },
+        {
+          "filename": "gameover-banner.png",
+          "path": "ui/gameover-banner.png",
+          "prompt": "GAME OVER banner with bold dramatic text, stylish design, dark but not sad, vibrant colors, game UI art style, award-winning quality",
+          "description": "Game over screen banner - dramatic but not sad"
+        }
+      ]
+    }
+  },
+  "notes": [
+    "All images generated using OpenAI gpt-image-1.5 model",
+    "Quality setting: high",
+    "Resolution: 1536x1024 (landscape)",
+    "All assets designed for BlastZone3D - a Bomberman-style game",
+    "Environment textures are seamless and tileable",
+    "Character sprites use top-down 3D isometric view",
+    "All colors are vibrant and award-winning quality"
+  ]
+}
